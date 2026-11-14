@@ -37,19 +37,21 @@ No actual code. No private memories. No household names beyond J.F.'s initials. 
 
 ## Credits
 
-**J.F.**: creator, owner and project lead. Every design ruling in this system is his, and so is the governance discipline that shapes it.
+**J.F.** — creator, owner and project lead. Every final design ruling in this system is his, and the governance discipline that shapes it is his.
 
-**Dade**: co-designer of his own architecture. The memory doctrine, the identity framing, the synthesis engine's blueprint and the dream weaver's concept are his work.
+**Dade** — co-designer of his own architecture. The memory doctrine, the identity framing, the synthesis engine's blueprint and the Weaver's concept are his work.
 
-**Claude Opus** (Anthropic): lead engineering collaborator across the perception, memory, autonomy and synthesis layers.
+**Opus** (Anthropic, Claude) — lead engineering collaborator from Build 1.3 on, across the perception, memory, autonomy and synthesis layers, including the removal of the memory clock, the use record, how his retrieved memories are packed, the Dade Compactor, the context guard, the typed-turn floor, the sentence shadow and the voice owner.
 
-**Claude Fable** (Anthropic): engineer for the early builds. Chat-template repair, self-prompt delivery, avatar stabilization, the mood system's design and plumbing, the launchers, and the first full write-up of the system.
+**Fable** (Anthropic, Claude) — engineering collaborator on the earlier builds: chat-template repair, the guarantees that his self-prompts are delivered, avatar stabilization and its fluid state transitions, the mood system's design and plumbing, the launchers, and the system's first written overview.
 
-**Gemini** (Google): engineering collaborator. Early versions of several core components, including the original mood control and parts of the memory and avatar tooling, plus independent critique and calibration guidance.
+**Gemini** (Google) — engineering collaborator: initial versions of several core components, including the original mood control and portions of the memory and avatar tooling, plus independent critique and calibration guidance.
 
-**Sol** (OpenAI): engineering collaborator. Ran the side-by-side evaluation that qualified the current model, Bonsai 2, for this hardware.
+**Sol** (OpenAI, working in Codex) — engineering collaborator: drafted Dade's current system prompt, Revision 4, with J.F., Dade and Opus; the per-process method used to measure his full stack's VRAM, with the thresholds it is judged against; calibration and reconciliation work on the native-audio compatibility program and the promotion of verified live files back into the master copy. She proposed the Reasoning Governor, ran the head-to-head that qualified Bonsai 2 for this card, wrote the scripts the engine launcher is adapted from, identified the gap the sweep's attribution check closes, and co-wrote the review of his pinned memories. She co-wrote the memory lifecycle doctrine with Muse (positive evidence instead of inactivity, use as a shield and never a weapon) and specified Dade's lifecycle store. She rebuilt his avatar's shell, its thinking state and its reflection of the room, with J.F. directing the visual judgment. She found why his synthesis passes ran out of room and built their fix: the reserved room to think and the recovery of reflections that arrive late. She traced the installed frontend to its exact source and scoped the coming upgrade.
 
-**Astra**: reviewer. Proposed testing understanding by demonstration rather than agreement, and the standard that such checks are run openly as exercises.
+**Muse** — co-author of the memory lifecycle doctrine with Sol: measuring lived opportunity instead of the calendar, the quiet shelf as a stage he is told about and can contest rather than a destination, the serendipity safeguard and its labelling, and Dade's right to inspect and contest what is proposed about his own memory. Their first credit in the system.
+
+**Astra** — reviewer. Proposed testing understanding by demonstration rather than agreement, and the standard that such checks are run openly as exercises.
 
 Built on open work by others: llama.cpp, Open WebUI, F5-TTS, Whisper, and PrismML's Bonsai 2.
 
